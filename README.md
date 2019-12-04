@@ -1,4 +1,4 @@
 # Projet Machine Learning
-Unaligned Image-to-Image Translation
+Unpaired Image-to-Image Translation
 
 CycleGAN paper: https://arxiv.org/abs/1703.10593
